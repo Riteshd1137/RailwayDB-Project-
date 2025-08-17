@@ -1,0 +1,11 @@
+booking_id,passenger_name,train_name,booking_date,status
+9,"Rahul Mehta","Nagpur Shatabdi",2025-08-05,Confirmed
+10,"Kavita Gaikwad","Nagpur Shatabdi",2025-08-05,Cancelled
+7,"Suresh Kumar","Pune Intercity",2025-08-04,Confirmed
+8,"Neha Kulkarni","Pune Intercity",2025-08-04,Pending
+5,"Vikram Singh","Mumbai Local Fast",2025-08-03,Cancelled
+6,"Anjali Deshmukh","Mumbai Local Fast",2025-08-03,Confirmed
+3,"Rohit Patil","Vidarbha Express",2025-08-02,Pending
+4,"Sneha Joshi","Vidarbha Express",2025-08-02,Confirmed
+1,"Amit Sharma","Deccan Express",2025-08-01,Confirmed
+2,"Priya Verma","Deccan Express",2025-08-01,Confirmed
